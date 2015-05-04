@@ -57,7 +57,7 @@ int main()
 void Pilarm::SignalOn()
 {
 	int option2;
-	cout << "Welcome to the submenu:\n\t Which sound clip should we play:\n" << "1. Sound clip #1\t" << "2. Sound Clip #2\t" << "3. Sound Clip #3\n";
+	cout << "Welcome to the song menu screen:\n\t Which sound clip should we play:\n" << "1. Sound clip #1\t" << "2. Sound Clip #2\t" << "3. Sound Clip #3\n";
 	cin >> option2;
 	if (option2 == 1)
 	{
